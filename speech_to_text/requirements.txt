@@ -4,4 +4,4 @@ sounddevice
 scipy
 streamlit-audiorecorder
 pydub 
-pyaudioop
+
