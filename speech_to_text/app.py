@@ -6,6 +6,7 @@ import soundfile as sf
 import whisper
 import os
 import base64
+!pip install pyaudioop
 
 # Load Whisper model (cache to avoid reloading)
 @st.cache_resource
