@@ -2,10 +2,10 @@ import streamlit as st
 from audiorecorder import audiorecorder
 from pydub import AudioSegment
 import io
-import soundfile as sf
 import whisper
 import os
 import base64
+
 
 
 # Load Whisper model (cache to avoid reloading)
